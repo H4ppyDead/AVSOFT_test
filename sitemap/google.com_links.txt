@@ -1,0 +1,6 @@
+http://google.com/advanced_search?hl=ru&authuser=0
+http://google.com/preferences?hl=ru
+http://google.com/intl/ru/about.html
+http://google.com/intl/ru/ads/
+http://google.com/intl/ru/policies/privacy/
+http://google.com/intl/ru/policies/terms/

@@ -1,0 +1,7 @@
+https://vk.com/join?hidden=1
+https://vk.com/join
+https://vk.com/settings?act=select_lang
+https://vk.com/
+https://vk.com/settings?act=change_regional&hash=297dc4c5639b0687a5&lang_id=3
+https://vk.com/?act=client_url_proxy&_to=aHR0cHM6Ly92ay5jb20vP19mbT0xJl9mbTI9MQ&_openBrowser=1
+https://vk.com/settings?act=change_regional&hash=297dc4c5639b0687a5&lang_id=1
